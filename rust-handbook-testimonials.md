@@ -4,3 +4,13 @@
 | https://x.com/ryandotfurrer/status/2011946318453788948 ||
 | https://x.com/MrJxtr/status/2011748221757079828 ||
 | https://x.com/EkomUkanga/status/2010817535877271739||
+| https://x.com/blchead/status/2007566927837749648 ||
+|  ||
+|  ||
+|  ||
+|  ||
+|  ||
+|  ||
+|  ||
+|  ||
+|  ||
