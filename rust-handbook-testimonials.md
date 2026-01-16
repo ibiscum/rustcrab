@@ -9,7 +9,7 @@
 | https://x.com/sebdisiena/status/2005586601230139885 ||
 | https://x.com/uncomfy____/status/2010638029128659185 ||
 | https://x.com/AvieDev/status/2006337103953871342 ||
-|  ||
+| https://www.linkedin.com/feed/update/urn:li:activity:7417855196405534720/ ||
 |  ||
 |  ||
 |  ||
