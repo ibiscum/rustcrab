@@ -12,5 +12,13 @@
 | https://www.linkedin.com/feed/update/urn:li:activity:7417855196405534720/ ||
 | https://x.com/FrancescoCiull4/status/2009967705911439549 ||
 | https://www.linkedin.com/posts/francesco-ciulla-roma_congratulationsvishnu-pmfor-winning-a-activity-7415736735193759744-bnNI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
+| https://www.linkedin.com/posts/activity-7417966410833821697-ZNjn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
+| https://www.linkedin.com/posts/varodek_rust-cpp-c-activity-7408835929777311744-TBf2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
+| https://www.linkedin.com/posts/francesco-ciulla-roma_after-almost-2-years-im-holding-in-activity-7415007646400888833-yGhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
+|  ||
+|  ||
+|  ||
+|  ||
+|  ||
 |  ||
 |  ||
