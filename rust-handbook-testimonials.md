@@ -17,8 +17,8 @@
 | https://www.linkedin.com/posts/francesco-ciulla-roma_after-almost-2-years-im-holding-in-activity-7415007646400888833-yGhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
 | https://www.linkedin.com/posts/suphanfayong_in-programming-high-performance-and-memory-activity-7421317262403375104-Ra_h?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
 | https://www.linkedin.com/posts/raydelto-hernandez-53977a36_the-rust-programming-handbook-by-francesco-activity-7425934837867454464-iE7f?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g ||
-|  ||
-|  ||
+| https://www.linkedin.com/feed/update/urn:li:activity:7433122264977424384/ ||
+| https://vitaly-reads.beehiiv.com/p/vitaly-reads-5-february-2026 ||
 |  ||
 |  ||
 |  ||
