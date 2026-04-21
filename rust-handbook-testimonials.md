@@ -20,5 +20,5 @@
 | https://www.linkedin.com/feed/update/urn:li:activity:7433122264977424384/ ||
 | https://vitaly-reads.beehiiv.com/p/vitaly-reads-5-february-2026 ||
 | https://www.linkedin.com/posts/fona-erhabor_i-was-given-a-reviewers-copy-of-the-rust-activity-7451879846021910528-IoPN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g
-|  ||
+| https://www.linkedin.com/posts/tarasovaanastasia_rust-rustlang-cplusplus-activity-7452288353955274753-JHQa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g
 |  ||
