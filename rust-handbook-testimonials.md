@@ -22,3 +22,9 @@
 | https://www.linkedin.com/posts/fona-erhabor_i-was-given-a-reviewers-copy-of-the-rust-activity-7451879846021910528-IoPN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g
 | https://www.linkedin.com/posts/tarasovaanastasia_rust-rustlang-cplusplus-activity-7452288353955274753-JHQa?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g
 |  ||
+https://www.linkedin.com/posts/stephen-kinuthia-7b0702218_rust-rustlang-softwareengineering-activity-7455584397115838464-s4qb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACb8bv8BZeFm1WixJeZfYkZgW47h_Kna57g
+
+https://www.linkedin.com/feed/update/urn:li:activity:7452155045543981056/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A7452155045543981056%2C7452222479357620225)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7452222479357620225%2Curn%3Ali%3Aactivity%3A7452155045543981056)
+
+https://www.linkedin.com/feed/update/urn:li:activity:7443610555468152833/
+https://www.linkedin.com/feed/update/urn:li:activity:7443228536477261824/
