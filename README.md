@@ -85,6 +85,54 @@ yarn build
 
 This will generate a out directory containing the optimized build.
 
+### Running Rust compendium examples
+
+The repository now includes a Cargo workspace at the root that covers all Rust projects under `book-compendium`.
+
+Run the default Rust members:
+
+```bash
+cargo run
+```
+
+Run a specific workspace project directly:
+
+```bash
+cargo run -p chapter_2_arrays
+```
+
+Run by chapter and project folder name using the helper script:
+
+```bash
+scripts/run-rust-example.sh chapter-2 arrays
+scripts/run-rust-example.sh chapter-1 cli_calculator -- --help
+```
+
+Test a specific chapter example:
+
+```bash
+scripts/test-rust-example.sh chapter-2 arrays
+scripts/test-rust-example.sh chapter-1 cli_calculator -- -- --nocapture
+```
+
+Run workspace-wide Rust checks and clippy:
+
+```bash
+scripts/check-all-rust.sh
+```
+
+Run checks without clippy:
+
+```bash
+scripts/check-all-rust.sh --no-clippy
+```
+
+Exclude specific packages from checking:
+
+```bash
+scripts/check-all-rust.sh --exclude chapter_13_11_tokio_basics --exclude chapter_6_anyhow_example
+```
+
 ### Deployment
 
 You can deploy this Next.js application to various platforms such as Vercel, Netlify, or any other hosting provider supporting static site hosting.

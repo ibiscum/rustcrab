@@ -1,0 +1,6 @@
+[package]
+name = "chapter_2_functions_passing_by_reference"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

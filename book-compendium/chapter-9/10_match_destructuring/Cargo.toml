@@ -1,0 +1,6 @@
+[package]
+name = "chapter_9_10_match_destructuring"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

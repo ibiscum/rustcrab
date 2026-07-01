@@ -1,0 +1,6 @@
+[package]
+name = "chapter_15_handling_standard_input"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

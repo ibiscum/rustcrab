@@ -1,0 +1,6 @@
+[package]
+name = "chapter_11_01_box_basic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

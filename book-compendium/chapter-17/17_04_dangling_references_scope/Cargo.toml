@@ -1,0 +1,6 @@
+[package]
+name = "chapter_17_17_04_dangling_references_scope"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

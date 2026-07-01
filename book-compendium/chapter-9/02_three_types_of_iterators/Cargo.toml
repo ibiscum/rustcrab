@@ -1,0 +1,6 @@
+[package]
+name = "chapter_9_02_three_types_of_iterators"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

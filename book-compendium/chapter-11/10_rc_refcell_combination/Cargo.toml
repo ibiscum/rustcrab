@@ -1,0 +1,6 @@
+[package]
+name = "chapter_11_10_rc_refcell_combination"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

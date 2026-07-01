@@ -1,0 +1,6 @@
+[package]
+name = "chapter_10_11_test_driven_development"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "chapter_5_ownership_struct_fields"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

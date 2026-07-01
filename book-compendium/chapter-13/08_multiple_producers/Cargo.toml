@@ -1,0 +1,6 @@
+[package]
+name = "chapter_13_08_multiple_producers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

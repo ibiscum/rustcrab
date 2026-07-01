@@ -1,0 +1,6 @@
+[package]
+name = "chapter_15_08_list_dir_contents"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

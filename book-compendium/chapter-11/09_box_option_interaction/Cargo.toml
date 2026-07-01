@@ -1,0 +1,6 @@
+[package]
+name = "chapter_11_09_box_option_interaction"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

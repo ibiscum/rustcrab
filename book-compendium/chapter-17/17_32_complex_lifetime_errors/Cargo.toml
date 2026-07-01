@@ -1,0 +1,6 @@
+[package]
+name = "chapter_17_17_32_complex_lifetime_errors"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

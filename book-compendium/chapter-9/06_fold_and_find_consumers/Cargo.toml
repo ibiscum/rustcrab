@@ -1,0 +1,6 @@
+[package]
+name = "chapter_9_06_fold_and_find_consumers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

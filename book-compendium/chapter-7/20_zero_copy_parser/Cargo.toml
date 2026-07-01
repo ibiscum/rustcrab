@@ -1,0 +1,6 @@
+[package]
+name = "chapter_7_20_zero_copy_parser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

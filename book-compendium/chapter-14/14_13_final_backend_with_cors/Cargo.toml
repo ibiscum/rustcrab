@@ -1,0 +1,13 @@
+[package]
+name = "chapter_14_14_13_final_backend_with_cors"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+axum = "=0.7.9"
+tokio = { version = "=1.48.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1"
+dotenvy = "0.15"
+sqlx = { version = "=0.7.4", features = ["runtime-tokio-rustls", "postgres", "macros"] }
+tower-http = { version = "=0.5.2", features = ["cors"] }

@@ -1,0 +1,6 @@
+[package]
+name = "chapter_10_15_test_doubles_and_stubs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "chapter_12_09_tcp_connect_timeout"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

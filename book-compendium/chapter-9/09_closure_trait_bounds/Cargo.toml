@@ -1,0 +1,6 @@
+[package]
+name = "chapter_9_09_closure_trait_bounds"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
